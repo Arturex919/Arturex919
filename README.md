@@ -37,7 +37,8 @@
 
 ### Tools & Others
 - Git & GitHub
-- SQL / Databases
+- SQL /PostgresSQL/Mongp/ Databases
+- AWS Amazon Web Services
 - Technical Documentation
 - Agile / Development Methodologies
 
